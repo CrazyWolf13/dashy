@@ -290,8 +290,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Tuzi555">
-            <img src="https://avatars.githubusercontent.com/u/62188066?v=4" width="80;" alt="Tuzi555"/>
+        <a href="https://github.com/jtuzar">
+            <img src="https://avatars.githubusercontent.com/u/62188066?v=4" width="80;" alt="jtuzar"/>
             <br />
             <sub><b>Jakub Tuzar</b></sub>
         </a>
