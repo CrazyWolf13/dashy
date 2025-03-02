@@ -89,10 +89,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/walkxcode">
-            <img src="https://avatars.githubusercontent.com/u/71191962?v=4" width="80;" alt="walkxcode"/>
+        <a href="https://github.com/lammersbjorn">
+            <img src="https://avatars.githubusercontent.com/u/71191962?v=4" width="80;" alt="lammersbjorn"/>
             <br />
-            <sub><b>Walkx</b></sub>
+            <sub><b>Bjorn Lammers</b></sub>
         </a>
     </td></tr>
 <tr>
