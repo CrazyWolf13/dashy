@@ -641,10 +641,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/lxjv">
-            <img src="https://avatars.githubusercontent.com/u/63261955?v=4" width="80;" alt="lxjv"/>
+        <a href="https://github.com/ivyturner">
+            <img src="https://avatars.githubusercontent.com/u/63261955?v=4" width="80;" alt="ivyturner"/>
             <br />
-            <sub><b>Laker Turner</b></sub>
+            <sub><b>Ivy Rose Turner</b></sub>
         </a>
     </td>
     <td align="center">
